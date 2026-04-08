@@ -3,7 +3,7 @@
 ## Mern Stack Developer
 
 ### 💭 About Me
-Startup Owner @ https://nextgendev.org.in/<br>
+Startup Owner @ https://nextgendevs.co.in/<br>
 CS Major Bio Tech Minor TIET 23 🎓
 
 Most of our projects are for private firms so we can't showcase then in git 👀
